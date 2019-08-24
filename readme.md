@@ -3,12 +3,15 @@
 **ioqq**为调用**酷Q** 的 DLL 接口来操作qq，从而使qq可通过编程编写成qq机器人的API库。
 **酷Q**安装环境可使用**ioqq**提供的命令一键安装及运行。
 
+## 功能
+
+- 通过API操纵QQ
+
 ## 前提环境
 
 - 安装[docker](https://www.docker.com/)
 
 > 也可以直接安装[酷Q](https://cqp.cc/t/23253)，不过建议安装[docker](https://www.docker.com/)，便于使用ioqq管理酷Q环境
-
 
 ## 环境安装
 
