@@ -1,0 +1,32 @@
+# dependencies
+/node_modules
+
+# ignore the .ts files
+/src
+/test
+
+# dokcer
+/docker/deps/coolq
+.dockerignore
+
+# ide
+.idea
+.vscode
+
+
+# misc
+/log
+/logs
+npm-debug.log
+.npmignore
+.git*
+.prettie*
+.editorconfig
+.importsortrc
+.markdownlintrc
+appveyor.yml
+package-lock.json
+jest*
+tsconfig*
+tslint.json
+.DS_Store
