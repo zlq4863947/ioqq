@@ -49,7 +49,7 @@ var { Rest } = require("ioqq");
 var rest = new Rest("http://127.0.0.1:5700");
 rest.sendPrivateMessage(123456, `测试的消息,t=${Date.now()}`);
 ```
-> Rest中的`http://127.0.0.1:5700"`为默认http接口地址
+> Rest中的`http://127.0.0.1:5700`为默认http接口地址
 > `sendPrivateMessage`为给指定好友发送私有消息，其中第一个参数为对方QQ号码
 
 - 运行 `node test`
